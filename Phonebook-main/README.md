@@ -2,6 +2,4 @@
 <p style="color: #2e6c80;">Для запуска проекта необходимо наличие иницилизации WebPack</p>
 
 <p>&nbsp;<p>
-<p>Как запустить?&nbsp;</p>
-
-<p>npm run start, сайт открывается по адресу http://localhost:1465/</p>
+<p>(Как запустить? npm run start, сайт открывается по адресу http://localhost:1465/)</p>
